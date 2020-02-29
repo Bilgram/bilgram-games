@@ -1,0 +1,19 @@
+- Simuleringer
+	- CPU/GPU heavy
+	- Meget svært
+- Sound system
+	- Nok rimelig hardware orienteret
+- Et stykke hardware
+	- ...
+- Spil
+	- Start simpelt med 2D. 
+		- Dynamisk bane, layout/environment kan ændre sig.
+	- GENRE:
+	- mmorpg
+		- Svært
+	- rts
+		- Nok ikke den sværeste start
+		- Alt er mutable
+	- 
+ - Graph tool
+ 	- Lightweight graph construction tool, any graph as input
