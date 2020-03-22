@@ -1,6 +1,15 @@
 game-engines
 
 1. Monogame
+	- Youtube tutorial series:
+		- https://www.youtube.com/watch?v=B_FvG7qaNtc&list=PLS9MbmO_ssyB_F9AhtJulWkHBCg4Q4tTE
+	- 3D programming i Monogame:
+		- https://www.gamefromscratch.com/post/2015/08/20/Monogame-Tutorial-Beginning-3D-Programming.aspx
+	- Ingen hjælpeværktøjer til models osv. 
 2. SDL2
+	- Mindre dokumentation
+3. OpenGL
+	- Custom game engine 
+	- Svært	
 
 custom?

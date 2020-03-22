@@ -12,8 +12,25 @@
 	- mmorpg
 		- Svært
 	- rts
+		- RTS design guide: 
+			- http://web.archive.org/web/20160115234655/http://content.gpwiki.org/index.php/RTS_Design_Guide
 		- Nok ikke den sværeste start
 		- Alt er mutable
-	- 
+			- Destructable environment
+			- Ingen bane "layout" er fixed pga. destructable
+		- Clean movement (nok rimelig svært at implementere)
+			- LOL like movement, så det føles smooth
+			- Ingen turn lag osv (Som i WC3)
+		- In game genre?
+			- Classic RTS med baser?
+			- Kunne være en blanding mellem LOL og classic RTS
+				- Multiple heroes men begrænset mængde mindre units
+				- Et twist på typisk base konstruktion
+		- Unit AI?
+			- Nok ikke ligefrem nemt
+			
+	- Ligemeget hvilket type spil så er graphic et big questionmark
+		- Art stuff 
+ 
  - Graph tool
  	- Lightweight graph construction tool, any graph as input
