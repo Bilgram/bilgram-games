@@ -1,6 +1,9 @@
 game-engines vs games
 https://www.youtube.com/watch?v=Y4J4ZdQGEgo
 
+Super god youtube kanel til engine information:
+GameFromScratch
+
 programming vs non-programming development. 
 	- Programming approach:
 		- Alle muligheder
@@ -24,5 +27,21 @@ programming vs non-programming development.
 3. OpenGL
 	- Custom game engine 
 	- Svært	
+4. Godot
+	- C++ eller C#
+	- Eller indbygget scripting language, GDscript, som skulle minde om Python
+	- Men virker også til at have de der state charts (yikes), men skulle være unødvendigt
+	- open source
+5. Panda3d
+	- Super simpel med Python som scripting language
+	- open source
+	- Man skal have en "anden" render engine, hvis det skal se godt ud
+6. Torque3D
+	- open source
+	- C-like scripting language
+	- Destructable environments (demo)
+	- Forholdsvis simpel world editor virker det til 
+	- Nok hovedsageligt shooter oriented though
 
-custom?
+
+Der er motherfucker mange forskellige engines. Det er en jungle 
